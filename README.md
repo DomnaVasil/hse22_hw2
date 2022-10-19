@@ -1,4 +1,14 @@
 # hse22_hw2
 ## Васильева Дарья, БХМ 201
-Первая часть: https://colab.research.google.com/drive/1Ob_AN6LdxP1ckmHFc8Nu4X8bEGFR7_Z0#scrollTo=FaTs183wd0z6
-Вторая часть: 
+Код: https://colab.research.google.com/drive/1Ob_AN6LdxP1ckmHFc8Nu4X8bEGFR7_Z0#scrollTo=FaTs183wd0z6
+
+
+### Статистика
+
+Предсказанных генов - 3622
+***
+Количество генов, аннотированных с помощью сравнения с бактерией MIL-1 - 3338
+***
+Количество генов, аннотированных с помощью БД SwissProt - 53
+***
+Количество белков, которые остались без аннотации функции - 231
