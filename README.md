@@ -1,6 +1,6 @@
 # hse22_hw2
 ## Васильева Дарья, БХМ 201
-Код: https://colab.research.google.com/drive/1Ob_AN6LdxP1ckmHFc8Nu4X8bEGFR7_Z0?usp=sharing
+Код: https://colab.research.google.com/drive/1Ob_AN6LdxP1ckmHFc8Nu4X8bEGFR7_Z0?usp=sharing (обновлен, чтобы открыть доступ. Полный код также был прикреплен до дедлайна в папке src)
 
 
 ### Статистика
